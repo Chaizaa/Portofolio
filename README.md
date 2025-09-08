@@ -17,8 +17,8 @@ Melakukan hit API menggunakan publi API yaitu PokeAPI dengan memanfaatkan fetch 
 ### 3. [Project RegresAPI](https://github.com/Chaizaa/Magang-Regres-API.git)
 Melakukan hit API menggunakan publik API yaitu reqresAPI dengan memanfaatkan fitur CRUD 
 
-### 4. [Project RegresAPI](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/HJPRBu_Cp)
-Ini adalah proyek pembelajaran komprehensif yang mendalami dasar-dasar teknologi kontainerisasi menggunakan Docker, berdasarkan dokumentasi "DIVING INTO DOCKER : FUNDAMENTAL INSIGHTS". Perjalanan pembelajaran ini dimulai dari konsep dasar seperti perbedaan antara kontainer dan Virtual Machine, hingga implementasi praktis dalam mengelola aplikasi multi-layanan, keamanan, dan orkestrasi.
+### 4. [Project DIVING INTO DOCKER : FUNDAMENTAL INSIGHTS](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/HJPRBu_Cp)
+Ini adalah proyek pembelajaran komprehensif yang mendalami dasar-dasar teknologi kontainerisasi menggunakan Docker.
 
 Kompetensi dan Konsep yang Dikuasai:
 - Konsep Inti Docker: Memahami arsitektur Docker dan komponen utamanya seperti Images, Containers, Volumes, dan Networks.
@@ -30,10 +30,10 @@ Kompetensi dan Konsep yang Dikuasai:
 - Manajemen via GUI: Menggunakan Portainer untuk mempermudah manajemen dan visualisasi lingkungan Docker Swarm secara grafis.
 - Praktik Operasional dan Keamanan: Menerapkan HEALTHCHECK untuk monitoring kondisi aplikasi, mengonfigurasi logging drivers, dan memahami konsep dasar keamanan kontainer.
 
-### 5. [Project SISTEM PENGONTROL KETINGGIAN AIR MENGGUNAKAN PID](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/H1PJci-41e)
+### 5. [Project Sistem Pengontrol Ketinggian Air Menggunakan PID](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/H1PJci-41e)
 Proyek ini mendemonstrasikan perancangan dan implementasi sistem kontrol otomatis untuk menjaga kestabilan level air. Sistem ini dibangun menggunakan Arduino Uno sebagai pusat kontrol, sensor ultrasonik HC-SR04 untuk pengukuran level air secara real-time, dan pompa air DC sebagai aktuator. Logika utama sistem menggunakan algoritma PID (Proportional-Integral-Derivative) untuk meminimalkan error dan mencapai set point ketinggian yang diinginkan secara efisien dan stabil.
 
-### 6. [Project Pengenalan Django untuk Web DevelopmentD](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/ry9ZTt70p)
+### 6. [Project Django untuk Web Development](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/ry9ZTt70p)
 Proyek ini mendemonstrasikan keahlian dalam pengembangan web backend menggunakan Python dan Django. Fokus utama adalah pada implementasi arsitektur Model-View-Template (MVT), pembuatan model database, penanganan request/response melalui views, serta rendering data dinamis menggunakan Django Template Engine. Selain itu, proyek ini juga mencakup penanganan form dan sistem autentikasi pengguna.
 
 ---
