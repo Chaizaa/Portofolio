@@ -33,7 +33,7 @@ Kompetensi dan Konsep yang Dikuasai:
 ### 5. [Project Sistem Pengontrol Ketinggian Air Menggunakan PID](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/H1PJci-41e)
 Proyek ini mendemonstrasikan perancangan dan implementasi sistem kontrol otomatis untuk menjaga kestabilan level air. Sistem ini dibangun menggunakan Arduino Uno sebagai pusat kontrol, sensor ultrasonik HC-SR04 untuk pengukuran level air secara real-time, dan pompa air DC sebagai aktuator. Logika utama sistem menggunakan algoritma PID (Proportional-Integral-Derivative) untuk meminimalkan error dan mencapai set point ketinggian yang diinginkan secara efisien dan stabil.
 
-### 6. [Project Django untuk Web Development](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/ry9ZTt70p)
+### 6. [Project Django untuk Web Development](https://hackmd.io/@T5UEWIDOS7itRg989D_nEg/HyvMqq5aa)
 Proyek ini mendemonstrasikan keahlian dalam pengembangan web backend menggunakan Python dan Django. Fokus utama adalah pada implementasi arsitektur Model-View-Template (MVT), pembuatan model database, penanganan request/response melalui views, serta rendering data dinamis menggunakan Django Template Engine. Selain itu, proyek ini juga mencakup penanganan form dan sistem autentikasi pengguna.
 
 ---
