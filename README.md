@@ -40,5 +40,6 @@ Proyek ini mendemonstrasikan keahlian dalam pengembangan web backend menggunakan
 Foodwise merupakan proyek perancangan UI/UX menggunakan Figma yang menawarkan solusi inovatif untuk mengatasi masalah food waste, khususnya pada sektor mitra usaha makanan dan perhotelan. Aplikasi ini menyediakan platform jual beli makanan sisa layak konsumsi dari hotel maupun pelaku usaha makanan yang dijual dengan harga lebih terjangkau menjelang jam tutup operasional.
 Melalui Foodwise, konsumen—termasuk masyarakat dengan keterbatasan ekonomi—dapat memperoleh makanan berkualitas dengan biaya lebih murah. Di sisi lain, aplikasi ini juga berperan dalam mengurangi jumlah limbah makanan yang terus meningkat dan menjadi permasalahan global.
 Selain fitur penjualan, Foodwise turut menyediakan layanan donasi makanan berlebih kepada masyarakat yang membutuhkan. Dengan demikian, Foodwise tidak hanya membantu menekan angka food waste, tetapi juga berpotensi mendukung upaya mengurangi kelaparan dan ketidakcukupan pangan di berbagai komunitas.
+
 ---
 
